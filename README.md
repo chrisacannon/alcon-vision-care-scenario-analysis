@@ -1,6 +1,6 @@
 # Alcon Vision Care Franchise — FY27 Portfolio Investment Analysis
 
-**An independent portfolio case study by [Chris Cannon](https://github.com/your-github-handle)**
+**An independent portfolio case study by [Chris Cannon](https://github.com/chrisacannon)**
 
 A self-initiated financial modeling and strategy exercise evaluating two real, current investment opportunities for Alcon's Vision Care Franchise, built to demonstrate the analytical toolkit described in Alcon's [Senior Manager, Global Business Strategy & Planning](https://alcon.wd5.myworkdayjobs.com/careers_alcon) job description: scenario modeling with toggle logic, sensitivity analysis, and structured portfolio prioritization (market attractiveness / right-to-win).
 
